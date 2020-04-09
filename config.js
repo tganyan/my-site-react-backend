@@ -1,4 +1,4 @@
 module.exports = {
-	USER: 'mr_miyagi@mindless.com', 
-	PASS: 'Interweb11!'
+	USER: 'tganyan.noreply@gmail.com', 
+	PASS: 'Interweb12!'
 }
