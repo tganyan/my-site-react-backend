@@ -5,7 +5,7 @@ const cors = require('cors');
 const creds = require('./config');
 
 const transport = {
-	host: 'smtp.mail.com',
+	host: 'smtp.gmail.com',
 	auth: {
 		user: creds.USER,
 		pass: creds.PASS
